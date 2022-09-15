@@ -1,1 +1,2 @@
-# AppliedML
+# Applied Machine Learning
+## Fall 2022
